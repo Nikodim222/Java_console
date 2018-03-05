@@ -1,11 +1,10 @@
 The World's Java Console
-Copyleft 2016 Artem V. Efremov (a.k.a. "Nikodim")
+Copyleft 2018 Nikodim)
 http://javaconsole222.sourceforge.net
 
 This has been made in Eclipse 4.4.1 "Luna" (http://www.eclipse.org).
 Feel free to extend the code with a newer functionality if required.
 I won't charge any duty from you.
-Also, be able to get in touch with me at nspu@list.ru (no spam please to not be blacklisted by me).
 Have fun!
 
 Redistribution and use in source and binary forms, with or without modification, are permitted.
@@ -43,3 +42,4 @@ For the future, to not repeat all these actions over and over, take heed to crea
 This should ease the job for an end-user if (s)he works with an operating system, does some test suites, works with the Net.
 The application can be seen as a kind of a command-line interpreter.
 Type "exit" to quit, "help" to get the list of commands. "hint command_name" returns brief information on the given command.
+
